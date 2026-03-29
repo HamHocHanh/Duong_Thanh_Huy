@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>SoleStyle</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="logo">👟 SoleStyle</div>
+      <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Shop</a>
+        <a href="#">About</a>
+        🛒
+      </div>
+    </div>
+    <div class="hero">
+      <h1>Step Into Style</h1>
+      <p>
+        Discover our curated collection of premium footwear. From casual to
+        athletic, find your perfect fit.
+      </p>
+      <button class="btn">Buy now</button>
+    </div>
+    <div class="products">
+      <div class="card">
+        <img src="Giay1.jpg" />
+        <h3>Classic white Sneakers</h3>
+        <p class="price">$89.99</p>
+        <button>View details</button>
+      </div>
+
+      <div class="card">
+        <img src="Giay2.jpg" />
+        <h3>Performance Running Shoes</h3>
+        <p class="price">$129.99</p>
+        <button>View details</button>
+      </div>
+
+      <div class="card">
+        <img src="Giay4.png" />
+        <h3>Premium Leather boots</h3>
+        <p class="price">$179.99</p>
+        <button>View details</button>
+      </div>
+    </div>
+  </body>
+</html>
